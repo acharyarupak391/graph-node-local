@@ -7,7 +7,7 @@ npm install -g @graphprotocol/graph-cli
 ```
 ganache-cli -h 0.0.0.0
 ```
-### Run docker container
+### Run docker container (make sure you have docker installed on your system)
 ```
 cd docker/ && ./setup.sh && docker-compose up && cd ../
 (./setup.sh only for Linux)
