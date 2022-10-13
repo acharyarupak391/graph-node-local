@@ -5,5 +5,5 @@ subgraph/node_modules
 subgraph/generated
 subgraph/yarn.lock
 
-node/node_modules
-node/yarn.lock
+query/node_modules
+query/yarn.lock
