@@ -1,0 +1,9 @@
+docker/data
+
+subgraph/build
+subgraph/node_modules
+subgraph/generated
+subgraph/yarn.lock
+
+node/node_modules
+node/yarn.lock
